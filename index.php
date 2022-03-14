@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Coming Soon 9</title>
+	<title>Coming Soon</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->	
-	<link rel="icon" type="image/png" href="images/icons/favicon.ico"/>
+	<link rel="icon" type="image/png" href="images/icons/logo.ico"/>
 <!--===============================================================================================-->
 	<link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
 <!--===============================================================================================-->
@@ -57,6 +57,10 @@
 
 			<a href="https://www.instagram.com/sre_its/" class="size3 flex-c-m how-social trans-04 m-r-3 m-l-3 m-b-5">
 				<i class="fa-brands fa-instagram"></i>
+			</a>
+
+			<a href="https://www.linkedin.com/company/sreits" class="size3 flex-c-m how-social trans-04 m-r-3 m-l-3 m-b-5">
+				<i class="fa-brands fa-linkedin"></i>
 			</a>
 
 			<a href="https://twitter.com/sre_its" class="size3 flex-c-m how-social trans-04 m-r-3 m-l-3 m-b-5">
